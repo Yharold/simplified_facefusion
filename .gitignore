@@ -1,0 +1,8 @@
+.venv/
+.vscode
+models/
+input/
+output/
+temp/
+__pycache__
+ffmpeg/
